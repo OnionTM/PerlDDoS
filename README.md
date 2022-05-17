@@ -1,2 +1,2 @@
-# Perl-DDoS
+# PerlDDoS
 Perl DDoS / DoS Scripts Package
